@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:background="#FFF"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    tools:context="zph.zhjx.com.firstroom.MenuActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+        <ImageButton
+            android:layout_margin="5dp"
+            android:layout_width="36dp"
+            android:layout_gravity="center"
+            android:background="@mipmap/menu"
+            android:layout_height="36dp" />
+
+    <zph.zhjx.com.firstroom.view.TopIndicator
+        android:layout_width="match_parent"
+        android:id="@+id/topindicator_all"
+        android:layout_height="48dp">
+
+    </zph.zhjx.com.firstroom.view.TopIndicator>
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/viewpager_all"
+        />
+
+
+
+    
+</LinearLayout>

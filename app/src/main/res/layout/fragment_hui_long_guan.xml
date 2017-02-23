@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="zph.zhjx.com.firstroom.Fragment.HuiLongGuanFragment">
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/huilong_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+      </com.handmark.pulltorefresh.library.PullToRefreshListView>
+</RelativeLayout>

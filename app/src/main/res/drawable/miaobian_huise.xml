@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 借助此属性绘制图形的背景色 -->
+    <solid android:color="@color/qiandao" />
+    <!-- 描边 -->
+    <stroke
+        android:width="0.5dp"
+        android:color="@color/colorxiantiao" />
+</shape>

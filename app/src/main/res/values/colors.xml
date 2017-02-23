@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <!-- 蓝色-->
+    <color name="colorlanse">#0099cc</color>
+    <!-- 白色-->
+    <color name="colorbasse">#FFF</color>
+    <!-- 橘红色-->
+    <color name="colorjuhong">#FA6422</color>
+    <!-- 西红柿色 -->
+    <color name="colororangered">#FF4500</color>
+    <!-- 淡灰色颜色,在白底下面使用，如搜索框的颜色-->
+    <color name="colorqianhuise">#F3F3F3</color>
+    <!--线条的颜色 -->
+    <color name="colorline">#666666</color>
+    <!--线性布局，条目鲜明情况下的背景色，淡灰色 -->
+    <color name="colordanbg">#EEEFF3</color>
+    <color name="colorhome">#19c0d2</color>
+    <color name="colorhome_red">#d4020d</color>
+    <color name="colorhome_red_red">#ff0411</color>
+    <color name="colorxiantiao">#d8d8d8</color>
+    <color name="colorHei">#000</color>
+    <color name="colorlv">#20d402</color>
+    <color name="color_listviewitem">#333333</color>
+    <color name="color_code">#aaaaaa</color>
+    <color name="color_item">#f1f1f1</color>
+    <color name="color_bg_banhei">#262523</color>
+    <color name="color_bg_ban_touming">#e0000000</color>
+    <color name="color_bg_main">#f6f6f6</color>
+    <color name="color_bg_text">#999999</color>
+    <color name="color_jszc">#aaaaaa</color>
+    <color name="color_jianjie_text">#d3923c</color>
+    <color name="color_time_bg">#e5e0d7</color>
+    <color name="color_sjz">#ffb0b4</color>
+    <color name="color_lan">#00affe</color>
+    <color name="color_bus_line">#979fac</color>
+    <color name="color_bus_item_bg">#f6f6f6</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_yuandian">#8d8d8d</color>
+    <color name="color_car_text_lan">#3f85fe</color>
+    <color name="color_car_bg">#f5f5f5</color>
+    <color name="color_yello">#fbf800</color>
+    <color name="color_drive_detail_color_view">#e0e2e6</color>
+
+    <color name="schedule_view">#d8d8d8</color>
+    <color name="schedule_date">#9a9a9a</color>
+    <color name="qiandao">#6fc5ef</color>
+    <color name="biaozhang">#fe6352</color>
+    <color name="lianhuan">#ffb54c</color>
+    <color name="wanyan">#c249e5</color>
+    <color name="support">#f6f6f6</color>
+    <color name="speech_title1">#333333</color>
+    <color name="speech_title2">#d3923c</color>
+    <color name="speech_content">#6e6e6e</color>
+    <color name="price_num">#aaaaaa</color>
+    <color name="qiandao_success">#fffc00</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="weizhi_yuan_dan">#FAE4E7</color>
+    <color name="touming50">#e0000000</color>
+    <color name="touming80">#CC000000</color>
+
+    <color name="accent">#ff009fd6</color>
+    <color name="accent2">#ff509b35</color>
+
+    <color name="az">#ff509b35</color>
+    <color name="ca">#ff009fd6</color>
+    <color name="ut">#ffbd3434</color>
+</resources>
